@@ -1,5 +1,5 @@
 # AudioSwitcher
-An AutoHotKey script for switching the current audio output to the next audio device.
+A AutoHotKey script for switching the current audio output to the next audio device.
 <br>
 Loops through the device list and starts at the top if needed.<br>
 <br>
